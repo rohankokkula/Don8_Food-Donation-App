@@ -20,7 +20,7 @@ This app will help tremendously by reducing the wastage of food, clothes and enc
 We are implementing this application for the purpose of the app is very easy to use and efficient.
 
                                 
-                                                              Modules  
+                                                         Modules  
  
  
 The modules in the DON8 App are as follows:-
