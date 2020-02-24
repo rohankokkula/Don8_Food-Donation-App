@@ -1,4 +1,4 @@
-DON8 - An Android Application for Food Donation.
+                                     DON8 - An Android Application for Food Donation.
 
 In this project we are creating a mobile application called DON8 using Android Studio. The aim of this project is to help the needy ones, to reduce
 wastage of food, to donate clothes and to donate money to the flood relief organisations. The android project consists of 3 sections, 1) Food Donation.
